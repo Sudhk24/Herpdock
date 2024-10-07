@@ -1,0 +1,12 @@
+
+spacing =1
+
+center_x =  22.083
+center_y =  -17.99
+center_z = -10.948
+
+size_x = 24
+size_y = 40
+size_z = 26
+
+exhaustiveness = 40

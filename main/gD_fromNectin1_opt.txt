@@ -1,0 +1,10 @@
+
+spacing =0.7
+center_x =  20.648
+center_y =  -15.855
+center_z = -9.791
+
+size_x = 20
+size_y = 40
+size_z = 30
+
